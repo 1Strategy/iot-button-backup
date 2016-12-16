@@ -5,8 +5,8 @@ Today we're going to experiment with the AWS IoT to expand [our existing backup 
 
 >You can code the button's logic in the cloud to configure button clicks to count or track items, call or alert someone, start or stop something, order services, or even provide feedback. For example, you can click the button to unlock or start a car, open your garage door, call a cab, call your spouse or a customer service representative, track the use of common household chores, medications or products, or remotely control your home appliances."
 
-<center><img src = "assets\tweet.png" width="550" height="170"></center>
-<br>
+![AWS's Werner Vogels AWS IoT Button Tweet](assets/tweet.png "Optional title")
+
 In the spirit of Werner's tweet, today we're going to #gobuild!
 
 <br>
