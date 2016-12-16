@@ -12,7 +12,7 @@ In the spirit of Werner's tweet, today we're going to #gobuild!
 
 For our experiment, we will expand [our existing backup functionality]() with a physical backup button for our environment.
 
-![Alt Text](assets\iot-button.png)
+![Alt Text](assets/iot-button.png)
 
 Usually regularly scheduled snapshots are enough, however, sometimes you need to manually back things up. To make it easy to perform an as-needed backup, we’ll use our IoT button.
 
